@@ -11,7 +11,7 @@ Get the password for user bandit3 from filename --spaces in this filename-- loca
 ls -l
 ```
 
-### To list out files 
+### To check the contents of the file
 ```bash
 cat "./--spaces in this filename--"
 ```
