@@ -14,7 +14,7 @@ Always save passwords that come in bandit game otherwise you will need to start 
 ls
 ```
 
-### To list out files 
+### To read file
 ```bash
 cat readme
 ```
