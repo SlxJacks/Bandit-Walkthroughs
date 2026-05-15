@@ -13,4 +13,4 @@ This repository contains my Bandit Walkthroughs while following my Junior Penetr
 - [x] Bandit Level 1
 - [x] Bandit Level 2
 - [x] Bandit Level 3
-- [] Bandit Level 3
+- [ ] Bandit Level 4
