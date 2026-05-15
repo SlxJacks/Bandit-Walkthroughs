@@ -11,7 +11,7 @@ Get the password for user bandit2 from - file from home directory.
 ls -l
 ```
 
-### To list out files 
+### To check the contents of the file
 ```bash
 cat ./-
 ```
