@@ -11,6 +11,11 @@ Get the password for next level from hidden file in inhere directory
 ls -l
 ```
 
+### To go into the directory
+```bash
+cd inhere/
+```
+
 ### To list out all files including the hidden file
 ```bash
 ls -la
